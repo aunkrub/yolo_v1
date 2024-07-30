@@ -1,0 +1,4 @@
+train: my_data_images_for_train/train
+val: my_data_images_for_train/valid
+nc: 1
+names: ['healer']
